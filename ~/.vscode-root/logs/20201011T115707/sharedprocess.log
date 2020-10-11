@@ -1,0 +1,4 @@
+[2020-10-11 11:57:11.213] [sharedprocess] [info] main {"machineId":"c47416c125682d0d580f5decfca2b9e00743d2b6ee913dbfdb6e6e3ef7512cc6","windowId":2}
+[2020-10-11 11:57:11.312] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/edenio/rails/app/~/.vscode-root/User/snippets'
+[2020-10-11 11:57:11.542] [sharedprocess] [info] Deleted from disk dbaeumer.vscode-eslint /root/.vscode/extensions/dbaeumer.vscode-eslint-2.1.8
+[2020-10-11 11:57:51.248] [sharedprocess] [info] Starting to clean up unused language packs.

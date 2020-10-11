@@ -1,0 +1,53 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/edenio/rails/app
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :app/controllers/application_controller.rb
+> git ls-files --stage -- /home/edenio/rails/app/app/controllers/application_controller.rb
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :app/assets/config/manifest.js
+> git ls-files --stage -- /home/edenio/rails/app/app/assets/config/manifest.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/assets/images/.keep
+> git ls-files --stage -- /home/edenio/rails/app/app/assets/images/.keep
+> git show --textconv :app/assets/config/manifest.js
+> git ls-files --stage -- /home/edenio/rails/app/app/assets/config/manifest.js
+> git show --textconv :Rakefile
+> git ls-files --stage -- /home/edenio/rails/app/Rakefile
+> git show --textconv :config.ru
+> git ls-files --stage -- /home/edenio/rails/app/config.ru
+> git show --textconv :Gemfile
+> git ls-files --stage -- /home/edenio/rails/app/Gemfile

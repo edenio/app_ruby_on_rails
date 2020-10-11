@@ -1,0 +1,8 @@
+[2020-10-11 11:56:07.944] [sharedprocess] [info] main {"machineId":"c47416c125682d0d580f5decfca2b9e00743d2b6ee913dbfdb6e6e3ef7512cc6","windowId":2}
+[2020-10-11 11:56:08.038] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/edenio/rails/app/~/.vscode-root/User/snippets'
+[2020-10-11 11:56:10.230] [sharedprocess] [info] Installing extension: dbaeumer.vscode-eslint
+[2020-10-11 11:56:10.852] [sharedprocess] [info] Downloaded extension: dbaeumer.vscode-eslint undefined
+[2020-10-11 11:56:10.911] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.dbaeumer.vscode-eslint-2.1.10: dbaeumer.vscode-eslint
+[2020-10-11 11:56:10.911] [sharedprocess] [info] Renamed to /root/.vscode/extensions/dbaeumer.vscode-eslint-2.1.10
+[2020-10-11 11:56:10.912] [sharedprocess] [info] Installation completed. dbaeumer.vscode-eslint
+[2020-10-11 11:56:10.926] [sharedprocess] [info] Extensions installed successfully: dbaeumer.vscode-eslint
